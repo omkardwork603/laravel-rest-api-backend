@@ -321,7 +321,6 @@ composer install
 * ⚡ Redis Caching
 * 🔎 Laravel Scout Search
 * 🧪 Automated Feature Tests
-* 📚 OpenAPI / Swagger Documentation
 
 ## License
 
